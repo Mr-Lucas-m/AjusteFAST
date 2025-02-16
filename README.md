@@ -30,7 +30,7 @@ Este projeto foi desenvolvido por Lucas Marques e Luiz Davi com o objetivo de au
 git clone https://github.com/luizdaviDL/projectEstagy.git
 
 # Acesse o diretório do projeto
-cd projectEstagy
+cd projeto estagio
 
 # Instale as dependências
 pip install -r requirements.txt
